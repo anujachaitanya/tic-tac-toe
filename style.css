@@ -11,6 +11,11 @@ body {
   margin: 0 auto;
 }
 
+#heading {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
 .cell {
   width: 100px;
   height: 100px;
@@ -18,4 +23,9 @@ body {
   margin: 0 auto;
   text-align: center;
   font-size: 80px;
+}
+
+#win {
+  font-size: 300px;
+  text-align: center;
 }
